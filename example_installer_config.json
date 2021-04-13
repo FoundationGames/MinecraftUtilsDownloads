@@ -1,0 +1,27 @@
+{
+	"download_configs": {
+		"Remote Example": {
+			"id": "remote_example",
+			"downloads": {
+				"Sandwichable": [
+					{
+						"type": "curse",
+						"data": {
+							"project": 374143,
+							"file": 3206686
+						}
+					}
+				],
+				"Phonos": [
+					{
+						"type": "curse",
+						"data": {
+							"project": 417003,
+							"file": 3144811
+						}
+					}
+				]
+			}
+		}
+	}
+}
